@@ -1,19 +1,19 @@
 # JavaScript Guide
 
 ## Table of Contents
-1. Variables
-2. Data Types
-3. Functions
-4. DOM Manipulation
-5. Events
-6. Objects
-7. Loops
-    - forEach Loop
-    - for of Loop
-8. APIs
-    - API Request URL
-    - fetch() Request
-    - API Methods
+1. [Variables](#1-variables)
+2. [Data Types](#2-data-types)
+3. [Functions](#3-functions)
+4. [DOM Manipulation](#4-dom-manipulation)
+5. [Events](#5-events)
+6. [Objects](#6-objects)
+7. [Loops](#7-loops)
+    - [forEach Loop](#foreach-loop)
+    - [for of Loop](#for-of-loop)
+8. [APIs](#8-apis)
+    - [API Request URL](#api-request-url)
+    - [fetch() Request](#fetch-request)
+    - [API Methods](#api-methods)
 
 ---
 
